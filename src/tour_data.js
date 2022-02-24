@@ -31,10 +31,10 @@ const tour_data = [
 }, 
 {
     id: 5,
-    title: "Temple",
+    title: "Temples & Shrines",
     image: require("./images/temple-tour.png"),
     // source: https://unsplash.com/photos/SBK40fdKbAg
-    text: "Temples throughout Japan still stand even after hundreds of years; a testament to their prosperity and integrity."
+    text: "Temples and shrines throughout Japan still stand even after hundreds of years; a testament to their prosperity and integrity."
 }, 
 ];
 
